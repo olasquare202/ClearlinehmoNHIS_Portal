@@ -1,0 +1,8 @@
+This application was created to allow seamless activities going on in Clearlinehmo company!
+User(Staff & Customer) can register, Login, Reset Password.
+Providers(Hospitals) can partner and render services to the Enrolee.
+User can generate Enrolee Number and NHIS Authorisation code(Alphanumeric).
+Enrolee can lodge complain if treatment is not well served.
+User can search for his data from the database by entering his NHIS Authorisation code or Enrolee number.
+Provider can verify Enrolee by his ID or Authorisation code.
+And Many more functionalities.
